@@ -6,5 +6,5 @@ the data came from database and the Admin can login with
 * UserName:admin
 * Password:password 
 
-And he can add new items and see the list of Orders
-Costumers they can buy the Items.
+And he can add new items and see the list of Orders.
+Also Costumers can buy their Favorite Items.
