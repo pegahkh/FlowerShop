@@ -1,0 +1,44 @@
+
+
+
+.slider{
+
+   
+   
+    height: 400px;
+    left: 50px;
+    margin-left: 7cm;
+   
+    position: absolute;
+    top: 210px;
+    width: 720px;
+}
+
+}
+.slider .slides {
+
+   
+    display:block;
+    width: 2880px;
+    height: 400px;
+    margin:0;
+    padding: 0;
+}
+
+.slider .Slide {
+  
+    float: left;
+    list-style-type: none;
+    width: 720px;
+    height: 400px;
+}
+.slider img {
+  
+    float: left;
+    width: 720px;
+    height: 400px;
+    
+}
+
+
+

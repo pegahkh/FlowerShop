@@ -1,0 +1,35 @@
+.slider{
+	position:absolute;
+	left:40px;
+	top:210px;
+    margin-left:7cm;
+    width: 1000px;
+    height: 400px;
+    overflow: hidden;
+    
+
+}
+.slider .slides {
+
+   
+    display:block;
+    width: 7000px;
+    height: 400px;
+    margin:0;
+    padding: 0;
+}
+
+.slider .Slide {
+  
+    float: left;
+    list-style-type: none;
+    width: 1000px;
+    height: 400px;
+}
+.slider img {
+  
+    float: left;
+    width: 1000px;
+    height: 400px;
+    
+}

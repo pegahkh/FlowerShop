@@ -1,0 +1,221 @@
+
+
+*{
+margin:0px;
+padding:0px;
+
+}
+html{
+width:100%;
+height:100%;
+}
+
+body{
+position: relative;
+min-width: 600px;
+height:200%;
+margin-left:2cm;
+font-family: verdana;
+background-color:#FFFFEE;
+padding:20px;
+
+}
+
+
+#logo{
+position:absolute;
+left:50px;
+}
+
+h2{
+font-family: fantasy;
+font-size:35px;
+position:relative;
+top:20px;
+color:	#FF85AD;
+display:inline;
+
+}
+#login h2{
+font-family: fantasy;
+font-size:25px;
+position:relative;
+top:-10px;
+color:	#FF85AD;
+display:inline;
+
+}
+
+ul.sub1 {
+
+list-style-type: none;
+margin-top:4px;
+}
+
+
+ul#tabs li{
+
+width:125px;
+text-align:left;
+position:relative;
+top:82px;
+float:left;
+margin-left:4px;
+list-style-type: none;
+}
+ul#tabs a{
+text-decoration:none;
+display:block;
+width:125px;
+height:25px;
+
+}
+#tabs li form{
+margin-left:1cm;
+width:300px;
+height:25px;
+
+}
+ 
+
+#table  {
+position:relative;
+top:25px;
+left:-1030px;
+display:block;
+width:250px;
+height:400px;
+}
+
+#table tr{
+height:80px;
+width:250px;
+}
+
+#login{
+position:absolute;
+top:200px;
+font-family: verdana;
+background-color:#FFFFEE;
+}
+
+#product_box{  
+position:relative;
+top:580px;
+left:250px;
+width:720px;
+text-align:center;
+margin-bottom:10px;
+}
+
+#product_box1{  
+position:absolute;
+top:200px;
+left:250px;
+width:720px;
+text-align:center;
+margin-left:30px;
+margin-bottom:10px;
+}
+
+#single_pro{ 
+color: #484A49 ;
+font-family: verdana;
+font-size:10px;
+float:left;
+margin-left:20px;
+padding:10px;
+}
+
+#table_admin{
+
+position:relative;
+float:left;
+top:90px;
+width:800px;
+height:444px;
+border-collapse: collapse;
+
+}
+#phoneHeader{
+height:50px;
+width:650px;
+position:absolute;
+left:800px;
+top:70px;
+font-family: verdana;
+font-size:12px; 
+color: #484A49 ;
+
+}
+#phoneHeader img{
+vertical-align:text-middle;
+}
+
+#sidebar{
+position:absolute;
+left:50px;
+top:150px;
+width:150px;
+height:30px;
+}
+#sidebar_title{
+text-align:center;
+background-color:#FF85AD;
+position:absolute;
+left:10px;
+top:-15px;
+width:130px;
+height:23px;
+}
+#sidebar_title1{
+text-align:center;
+background-color:#FF85AD;
+position:absolute;
+left:10px;
+top:209px;
+width:130px;
+height:20px;
+}
+
+#cats{
+padding-bottom:10px;
+}
+#cats li{
+list-style:none;
+margin:5px;
+text-align:center;
+}
+
+
+#cats a{ color: #484A49;  text-decoration:none; font-size:15px;}
+
+#cats a:hover{color:pink; }
+
+#footer{
+position:absolute;
+bottom:0px;
+width:100%;
+border-top-style:double ;
+text-align:center;
+clear:both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
